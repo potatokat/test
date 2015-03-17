@@ -1,4 +1,11 @@
 body{
+<<<<<<< HEAD
 	background-color: green;
 	color: yellow;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+=======
+	background-color: gray;
+	color: black;
+	font-family: "Lucida Console", cursive, sans-serif;
+>>>>>>> ab-2l_ornales
 }

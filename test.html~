@@ -3,7 +3,11 @@
 	<link rel="stylesheet" type="text/css" href="test.css">
 </head>
 <body>
-	<h1>Hello World!</h1>
+<<<<<<< HEAD
+	<h1>Punitin ang mga SEDULAAA!!!</h1>
+=======
+	<h1>It's Showtime!!!</h1>
+>>>>>>> ab-2l_ornales
 	<img src="myimage.gif"/>
 	<p>Katrina P. Ornales, 2012-03694, CMSC 128 AB-2L</p>
 </body>
